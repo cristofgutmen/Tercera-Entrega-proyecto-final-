@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;    
+}
+
+.container{
+    padding: 2rem;
+}
+
+footer{
+    text-align: center;
+    padding: 1em;
+    background-color: rgb(0, 0, 0);
+    bottom: 0%;
+    margin-top: auto;
+}
+
+.main-footer{
+    grid-area: footer;
+    color: aliceblue;
+}
