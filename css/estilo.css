@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.bg {
+  background-image: url(../assets/img/fondo.png);
+  height: 800px;
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.container-inicio {
+  color: white; }
+
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box; }
+
+.bg-mio {
+  background-color: #eeeeee; }
+
+.carousel {
+  padding: 1rem; }
+
+.carousel img {
+  border-radius: 1rem; }
+
+.container {
+  padding: 2rem; }
+
+.footer {
+  padding: 1em;
+  background-color: white;
+  bottom: 0%; }
+
+.main-footer {
+  grid-area: footer; }
