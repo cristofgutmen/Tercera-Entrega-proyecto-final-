@@ -38,3 +38,7 @@
 
 .main-footer {
   grid-area: footer; }
+
+.tienda {
+  padding: 2%;
+  justify-content: space-between; }
